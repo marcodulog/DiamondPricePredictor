@@ -1,0 +1,12 @@
+name: DiamondPricePredictor
+title: DiamondPricePredictor
+username:
+account: marcodulog
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 307132
+bundleId: 1286549
+url: https://marcodulog.shinyapps.io/DiamondPricePredictor/
+when: 1521945866.52624
+asMultiple: FALSE
+asStatic: FALSE
