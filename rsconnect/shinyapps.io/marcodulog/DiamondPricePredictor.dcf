@@ -5,8 +5,8 @@ account: marcodulog
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 307132
-bundleId: 1286556
+bundleId: 1286561
 url: https://marcodulog.shinyapps.io/DiamondPricePredictor/
-when: 1521946351.53459
+when: 1521946892.21062
 asMultiple: FALSE
 asStatic: FALSE
