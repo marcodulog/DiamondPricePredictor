@@ -61,7 +61,12 @@ shinyUI(fluidPage(
                    "Carat:",
                    min = 0.2,
                    max = 5.01,
-                   value = 5.01/2)
+                   value = 5.01/2),
+       h5("Instructions: To determine how much you should spend on your diamond, choose the 4 C's: 
+          Cut , Clarity, Color and Caret.  
+          Your selections will predict a price for you along a table showing possible ranges.
+          You also have the option of comparing the Cut, Clarity and Color against your price ranges.
+          ")
        
     ),
     
