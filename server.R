@@ -50,7 +50,6 @@ shinyServer(function(input, output) {
     
     #display the graph based upon what the graphing selection is based upon
     graphText <-  toupper(input$graphBy)
-    print(graphText)
         if (graphText == "CUT"){
             output$boxPlot<-renderPlot({
             boxplot(price~cut, data=filter(sample, price >= lower, price <= upper),ylab="PRICE", xlab=graphText)
